@@ -1,0 +1,24 @@
+{
+ "models": {
+  "modular_street_seating": {
+   "file": "models/modular_street_seating/modular_street_seating_1k.json",
+   "role": "prop"
+  },
+  "rock_moss_set_01": {
+   "file": "models/rock_moss_set_01/rock_moss_set_01_1k.json",
+   "role": "rock"
+  },
+  "rock_moss_set_02": {
+   "file": "models/rock_moss_set_02/rock_moss_set_02_1k.json",
+   "role": "rock"
+  },
+  "street_lamp_01": {
+   "file": "models/street_lamp_01/street_lamp_01_1k.json",
+   "role": "prop"
+  },
+  "wooden_picnic_table": {
+   "file": "models/wooden_picnic_table/wooden_picnic_table_1k.json",
+   "role": "prop"
+  }
+ }
+}
